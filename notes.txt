@@ -1,1 +1,3 @@
-finished pigga recipe
+added names of made up people that made the dish to the index description
+adjusted spaghebbi describtion to make a little more sense
+added a disclaimer in the readme file to not make the goofy recipes

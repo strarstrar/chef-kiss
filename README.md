@@ -11,3 +11,4 @@ man i wish i were wealthy..
 
 Images used in Creative Commons.
 Recipes are made up besides the Lasabra (credit to Nick DiGiovanni).
+The recipes in these guides are NOT recommended.
